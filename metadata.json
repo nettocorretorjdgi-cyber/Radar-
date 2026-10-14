@@ -1,0 +1,6 @@
+{
+  "name": "RadarCNPJ - Busca e Banco de Dados de Empresas",
+  "description": "Sistema de busca e prospecção de empresas por CNPJ ou CNAE com mapa interativo por raio (km), consulta cadastral da Receita Federal e banco de dados exportável.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
